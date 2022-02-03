@@ -1,4 +1,4 @@
 # bfs-dfs-code
-Implementation in typescript of the BFS and DFS algorithm
+Implementação de algoritmos BFS e DFS em python
 
-main.ts implements the algorithms, examples.ts tests the algorithm
+```main.py``` implementa algoritmos, ```examples.py``` testa e exibe resultados em um arquivo.
